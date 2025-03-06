@@ -16,6 +16,7 @@ o Stage and commit this file with an appropriate commit message.
 => git init (git will start. .git - a hidden file will be created)
 
 2.Create a New GitHub Repository:
+will write later
 
 o Create a new repository on GitHub with a meaningful name.
 
